@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "license": "MIT",
+  "scripts": {
+    "pdf": "electron-pdf ./README.md ./README.pdf -m 0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn pdf && git add README.pdf"
+    }
+  },
+  "dependencies": {
+    "electron-pdf": "15.0.0",
+    "husky": "^8.0.3"
+  }
+}
