@@ -25,11 +25,11 @@
 ## 荣誉
 
 #### 大学期间 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[14年一等奖学金](https://raw.githubusercontent.com/LiShuxue/resume/master/images/2014yideng.jpeg)、[15年一等奖学金](https://raw.githubusercontent.com/LiShuxue/resume/master/images/2015yideng.jpeg)、[16年一等奖学金](https://raw.githubusercontent.com/LiShuxue/resume/master/images/2016yideng.jpeg)      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[14年三好学生](https://raw.githubusercontent.com/LiShuxue/resume/master/images/2014sanhao.jpeg)、[15年三好学生](https://raw.githubusercontent.com/LiShuxue/resume/master/images/2015sanhao.jpeg)、[16年优秀毕业生](https://raw.githubusercontent.com/LiShuxue/resume/master/images/youxiubiye.jpeg)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[校级优秀团员](https://raw.githubusercontent.com/LiShuxue/resume/master/images/youxiutuanyuan.jpeg)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中级软件设计师](https://raw.githubusercontent.com/LiShuxue/resume/master/images/ruanjiansheji.jpeg)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C语言二级](https://raw.githubusercontent.com/LiShuxue/resume/master/images/c2ji.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[14年一等奖学金](https://cdn.lishuxue.site/resume/images/2014yideng.jpeg)、[15年一等奖学金](https://cdn.lishuxue.site/resume/images/2015yideng.jpeg)、[16年一等奖学金](https://cdn.lishuxue.site/resume/images/2016yideng.jpeg)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[14年三好学生](https://cdn.lishuxue.site/resume/images/2014sanhao.jpeg)、[15年三好学生](https://cdn.lishuxue.site/resume/images/2015sanhao.jpeg)、[16年优秀毕业生](https://cdn.lishuxue.site/resume/images/youxiubiye.jpeg)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[校级优秀团员](https://cdn.lishuxue.site/resume/images/youxiutuanyuan.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中级软件设计师](https://cdn.lishuxue.site/resume/images/ruanjiansheji.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C语言二级](https://cdn.lishuxue.site/resume/images/c2ji.jpeg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;励志奖学金   
 
 #### 工作期间
@@ -37,7 +37,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年度最佳员工  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019年度最佳团队  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020年团队优秀员工  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022年优选终端春季之星](https://raw.githubusercontent.com/LiShuxue/resume/master/images/zhongduanzhixing.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022年优选终端春季之星](https://cdn.lishuxue.site/resume/images/zhongduanzhixing.png)
 
 ## 工作经历
 
