@@ -2,15 +2,9 @@
   "name": "resume",
   "license": "MIT",
   "scripts": {
-    "pdf": "electron-pdf ./README.md ./李树雪-前端.pdf -m 0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn pdf && git add 李树雪-前端.pdf"
-    }
+    "pdf": "electron-pdf ./README.md ./许孟-前端.pdf -m 0"
   },
   "dependencies": {
-    "electron-pdf": "15.0.0",
-    "husky": "4.3.8"
+    "electron-pdf": "^20.0.0"
   }
 }
