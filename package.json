@@ -2,7 +2,6 @@
   "name": "resume",
   "license": "MIT",
   "scripts": {
-    "pdf": "electron-pdf ./README.md ./许孟-前端.pdf -m 0"
   },
   "dependencies": {
     "electron-pdf": "^20.0.0"
